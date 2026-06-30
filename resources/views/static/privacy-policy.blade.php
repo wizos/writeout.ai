@@ -33,8 +33,7 @@
                                 of consumers' personal information, that does business in the State of California.</p>
                         </li>
                         <li><p class="mt-2"><strong>Company</strong> (referred to as either "the Company", "We", "Us" or
-                                "Our" in this Agreement) refers to Beyond Code GmbH, An der Lingenmühle 10, 41061
-                                Mönchengladbach.</p>
+                                "Our" in this Agreement) refers to Beyond Code GmbH, Ackermansfeld 35, 47647 Kerken.</p>
                             <p class="mt-2">For the purpose of the GDPR, the Company is the Data Controller.</p></li>
                         <li><p class="mt-2"><strong>Consumer</strong>, for the purpose of the CCPA (California Consumer
                                 Privacy Act), means a natural person who is a California resident. A resident, as

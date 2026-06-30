@@ -9,7 +9,7 @@
             <div class="text-left">
                 <p class="mt-8 text-lg text-gray-600">If you have anything else you want to ask, <a class="text-gray-900 underline" href="mailto:support@beyondco.de">reach out to us</a>.</p>
                 <div class="mt-16 flex flex-col max-w-3xl"><h2>Beyond Code GmbH</h2>
-                    <p class="mt-2 text-sm text-gray-700">An der Lingenmühle 10<br>41061 Mönchengladbach<br>Germany</p>
+                    <p class="mt-2 text-sm text-gray-700">Ackermansfeld 35<br/> 47647 Kerken<br>Germany</p>
                     <h2 class="mt-4">Managing Partners</h2>
                     <p class="mt-2 text-sm text-gray-700">Sebastian Schlein<br>Marcel Pociot</p>
                     <h2 class="mt-4">Commercial Register</h2>
